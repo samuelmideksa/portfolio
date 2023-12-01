@@ -1,0 +1,9 @@
+.custom-colored-text, footer i {
+  color: #471AA0;
+}
+footer i {
+  font-size: x-large;
+}
+footer i:hover {
+  font-size: xx-large;
+}
